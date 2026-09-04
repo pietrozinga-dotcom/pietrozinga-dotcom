@@ -35,7 +35,7 @@ What we build:
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nextjs,react,tailwind,nodejs,supabase,postgres,vercel,git,github,githubactions,vscode,docker" alt="TypeScript, JavaScript, Python, HTML, CSS, Next.js, React, Tailwind, Node.js, Supabase, Postgres, Vercel, Git, GitHub, GitHub Actions, VS Code, Docker" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nextjs,react,tailwind,nodejs,supabase,postgres,vercel,git,github,githubactions,vscode,docker" alt="TypeScript, JavaScript, Python, HTML, CSS, Next.js, React, Tailwind, Node.js, Supabase, Postgres, Vercel, Git, GitHub, GitHub Actions, VS Code, Docker" /> 
 </p>
 
 ---

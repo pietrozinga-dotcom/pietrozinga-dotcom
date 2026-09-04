@@ -1,21 +1,24 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pietro%20%7C%20Full-Stack%20%26%20AI%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Trinity%20Digital%20Studio%20%7C%20Building%20CFA%20Broker&descAlignY=58&descSize=18)
+<img src="assets/header.svg" alt="Pietro | Full-Stack and AI Engineer" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+%7C+Next.js+%26+TypeScript;AI%2FML+Integration+%26+Prompt+Engineering;Founder+%40+Trinity+Digital+Studio;Building+CFA+Broker+%E2%80%94+InsurTech+Platform&font=Fira+Code&center=true&width=650&height=45&color=A78BFA&vCenter=true&size=22&pause=1500&background=00000000" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=50&size=20&lines=Full-Stack+Engineer+%7C+Next.js+and+TypeScript;AI+integration+and+prompt+engineering;Founder+at+Trinity+Digital+Studio;Building+CFA+Broker+-+InsurTech+platform" alt="Typing subtitle" />
 
-<img src="https://img.shields.io/badge/Self--Directed-Software%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Location-Turin%2C%20Italy-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Self--Directed-Software%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e" alt="Self-directed software engineering" />
+<img src="https://img.shields.io/badge/Location-Turin%2C%20Italy-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white" alt="Turin, Italy" />
+<img src="https://img.shields.io/badge/ICT-Universit%C3%A0%20di%20Torino-7C3AED?style=flat-square&labelColor=1a1a2e" alt="ICT student at University of Turin" />
 
-<a href="https://www.trinitydigitalstudio.it"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:info@trinitydigitalstudio.it"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/pietrozinga-dotcom"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pietrozinga-dotcom&style=flat-square&color=8b5cf6)
-![Followers](https://img.shields.io/github/followers/pietrozinga-dotcom?style=flat-square&color=6d28d9&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/pietrozinga-dotcom?style=flat-square&color=a78bfa&labelColor=1a1a2e)
+<a href="https://www.trinitydigitalstudio.it"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Portfolio"/></a>
+<a href="mailto:info@trinitydigitalstudio.it"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1a2e" alt="Email"/></a>
+<a href="https://github.com/pietrozinga-dotcom"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pietrozinga-dotcom&style=flat-square&color=8b5cf6" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/pietrozinga-dotcom?style=flat-square&color=6d28d9&labelColor=1a1a2e" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/pietrozinga-dotcom?style=flat-square&color=a78bfa&labelColor=1a1a2e" alt="GitHub stars" />
 
 </div>
 
@@ -23,9 +26,9 @@
 
 ## About Me
 
-I'm Pietro, a full-stack software engineer and founder based in Turin, Italy, building **CFA Broker** — a comprehensive insurance brokerage management platform powered by Next.js, TypeScript, Supabase, and applied AI. My work centers on product engineering with a strong AI/ML backbone: automated email-to-deal pipelines, document OCR/extraction systems, and intelligent classification workflows for the insurance domain.
+I'm Pietro, a full-stack software engineer and founder based in Turin, Italy. I study **Innovazione sociale, comunicazione e nuove tecnologie (ICT)** at the Università degli Studi di Torino, and I build **CFA Broker** — an insurance brokerage platform powered by Next.js, TypeScript, Supabase, and applied AI.
 
-I approach engineering with a product mindset — shipping systems that solve real operational problems for brokers and small businesses, not just technically elegant code.
+My work centers on product engineering: automated email-to-deal pipelines, document OCR/extraction, and classification workflows for brokers and small businesses.
 
 ```yaml
 Open To:
@@ -41,22 +44,22 @@ Open To:
 
 **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,php" alt="TypeScript, JavaScript, Python, HTML, CSS, PHP" />
 </p>
 
 **Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,wordpress,vercel" alt="Next.js, React, Tailwind, WordPress, Vercel" />
 </p>
 
 **Backend & Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql" alt="Node.js, Supabase, Postgres, MySQL" />
 </p>
 
 **Cloud, DevOps & Tooling**
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,git,github,githubactions,vscode,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,docker" alt="Git, GitHub, GitHub Actions, VS Code, Docker" />
 </p>
 
 ---
@@ -125,6 +128,37 @@ Founded and lead technical development of an insurance-technology product suite,
 
 `Next.js` `TypeScript` `Supabase` `AI Integration` `OCR` `Product Engineering`
 
+**ICT Student** — Università degli Studi di Torino
+`2019 — Present`
+
+Degree course in *Innovazione sociale, comunicazione e nuove tecnologie (ICT)*.
+
+---
+
+## Certifications
+
+Selected from my [portfolio](https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/) — the ones closest to product engineering, web, and applied AI.
+
+<div align="center">
+
+<a href="https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/"><img src="https://img.shields.io/badge/AI%20%26%20ChatGPT-Learnn%202024-6D28D9?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="AI and ChatGPT — Learnn 2024"/></a>
+<a href="https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/"><img src="https://img.shields.io/badge/Python-Learnn%202025-4C1D95?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python — Learnn 2025"/></a>
+<a href="https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/"><img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-Udemy%202024-8B5CF6?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e" alt="HTML5 and CSS3 — Udemy 2024"/></a>
+<a href="https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/"><img src="https://img.shields.io/badge/PHP%208%20%26%20MySQL-Udemy%202024-7C3AED?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a2e" alt="PHP 8 and MySQL — Udemy 2024"/></a>
+<a href="https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/"><img src="https://img.shields.io/badge/WordPress-Learnn%202024-6D28D9?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=1a1a2e" alt="WordPress — Learnn 2024"/></a>
+
+</div>
+
+<br/>
+
+| Certification | Issuer | Year | Why it is here |
+|---|---|---|---|
+| **AI e ChatGPT** — market research, ads, landing pages, SEO, content | Learnn | 2024 | Closest formal training to the AI workflows I ship in production |
+| **Python di Base** | Learnn | 2025 | Language used in scripting, automation, and AI tooling |
+| **HTML5 e CSS3 — guida completa per lo sviluppatore web** | Udemy | 2024 | Front-end foundations behind the product UI work |
+| **PHP 8 e MySQL — guida completa** (OOP, PDO, MVC, auth) | Udemy | 2024 | Server-side and database fundamentals |
+| **Sito WordPress** — hosting, SEO, performance, analytics | Learnn | 2024 | Shipping and operating real websites end-to-end |
+
 ---
 
 ## Achievements
@@ -142,32 +176,16 @@ Founded and lead technical development of an insurance-technology product suite,
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pietrozinga-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pietrozinga-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrozinga-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="50%"/>
-
-</div>
-
----
-
-## GitHub Trophies
+Public GitHub numbers only — most of my product work lives in private repositories.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pietrozinga-dotcom&theme=algolia&no-frame=true&margin-w=10&column=7" />
+<img src="https://github-readme-stats.shion.dev/api?username=pietrozinga-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com/?user=pietrozinga-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub streak" height="165" />
 
-</div>
+<br/>
 
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pietrozinga-dotcom&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" width="90%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs?username=pietrozinga-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages" height="165" />
 
 </div>
 
@@ -180,7 +198,7 @@ Founded and lead technical development of an insurance-technology product suite,
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pietrozinga-dotcom/pietrozinga-dotcom/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pietrozinga-dotcom/pietrozinga-dotcom/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pietrozinga-dotcom/pietrozinga-dotcom/output/github-contribution-grid-snake.svg" width="90%" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pietrozinga-dotcom/pietrozinga-dotcom/output/github-contribution-grid-snake.svg" width="90%" />
 </picture>
 
 </div>
@@ -214,9 +232,9 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:info@trinitydigitalstudio.it"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/pietrozinga-dotcom"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.trinitydigitalstudio.it"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:info@trinitydigitalstudio.it"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1a2e" alt="Email"/></a>
+<a href="https://github.com/pietrozinga-dotcom"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/></a>
+<a href="https://www.trinitydigitalstudio.it"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Portfolio"/></a>
 
 </div>
 
@@ -226,6 +244,6 @@ Open To:
 
 *"Building systems that turn operational chaos into structured, automated intelligence."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<img src="assets/footer.svg" alt="" width="100%" />
 
 </div>

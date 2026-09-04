@@ -93,12 +93,12 @@ Next.js, TypeScript, Supabase, Google Apps Script.
 
 ## Certifications
 
-Not linked yet — certificate files come later.
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20%26%20ChatGPT-Learnn%202024-6D28D9?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="AI and ChatGPT — Learnn 2024"/>
-<img src="https://img.shields.io/badge/Python-Learnn%202025-4C1D95?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python — Learnn 2025"/>
+<a href="https://learnn.com/v/fd67980f-f63b-41a3-a6ac-fe35ce6a7d11/"><img src="https://img.shields.io/badge/AI%20%26%20ChatGPT-Learnn%202024-6D28D9?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="AI and ChatGPT — Learnn 2024"/></a>
+<a href="https://learnn.com/v/0bd9b101-5a7c-4204-9e36-b4ed0bf13aa9/"><img src="https://img.shields.io/badge/Python-Learnn%202025-4C1D95?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python — Learnn 2025"/></a>
+<a href="https://www.udemy.com/certificate/UC-d4ce3413-26bd-4f24-8154-16a1a10f0238/"><img src="https://img.shields.io/badge/PHP%208%20%26%20MySQL-Udemy-7C3AED?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a2e" alt="PHP 8 and MySQL — Udemy"/></a>
+<a href="https://learnn.com/v/c3a101f5-5821-47d5-9463-bceb38bfd358/"><img src="https://img.shields.io/badge/WordPress-Learnn%202024-6D28D9?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=1a1a2e" alt="WordPress — Learnn 2024"/></a>
 
 </div>
 

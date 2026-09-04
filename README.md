@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/Self--Directed-Software%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e" alt="Self-directed software engineering" />
 <img src="https://img.shields.io/badge/Location-Turin%2C%20Italy-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white" alt="Turin, Italy" />
-<img src="https://img.shields.io/badge/ICT-Universit%C3%A0%20di%20Torino-7C3AED?style=flat-square&labelColor=1a1a2e" alt="ICT student at University of Turin" />
 
 <br/>
 
@@ -26,7 +25,7 @@
 
 ## About Me
 
-I'm Pietro, a full-stack software engineer and founder based in Turin, Italy. I study **Innovazione sociale, comunicazione e nuove tecnologie (ICT)** at the Università degli Studi di Torino, and I build **CFA Broker** — an insurance brokerage platform powered by Next.js, TypeScript, Supabase, and applied AI.
+I'm Pietro, a full-stack software engineer and founder based in Turin, Italy, building **CFA Broker** — an insurance brokerage platform powered by Next.js, TypeScript, Supabase, and applied AI.
 
 My work centers on product engineering: automated email-to-deal pipelines, document OCR/extraction, and classification workflows for brokers and small businesses.
 
@@ -127,11 +126,6 @@ Founded and lead technical development of an insurance-technology product suite,
 - Managed deployment and infrastructure via Vercel and Supabase
 
 `Next.js` `TypeScript` `Supabase` `AI Integration` `OCR` `Product Engineering`
-
-**ICT Student** — Università degli Studi di Torino
-`2019 — Present`
-
-Degree course in *Innovazione sociale, comunicazione e nuove tecnologie (ICT)*.
 
 ---
 

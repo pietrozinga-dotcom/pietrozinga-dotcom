@@ -131,15 +131,15 @@ Founded and lead technical development of an insurance-technology product suite,
 
 ## Certifications
 
-Selected from my [portfolio](https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/) — the ones closest to product engineering, web, and applied AI.
+The ones closest to product engineering, web, and applied AI.
 
 <div align="center">
 
-<a href="https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/"><img src="https://img.shields.io/badge/AI%20%26%20ChatGPT-Learnn%202024-6D28D9?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="AI and ChatGPT — Learnn 2024"/></a>
-<a href="https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/"><img src="https://img.shields.io/badge/Python-Learnn%202025-4C1D95?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python — Learnn 2025"/></a>
-<a href="https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/"><img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-Udemy%202024-8B5CF6?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e" alt="HTML5 and CSS3 — Udemy 2024"/></a>
-<a href="https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/"><img src="https://img.shields.io/badge/PHP%208%20%26%20MySQL-Udemy%202024-7C3AED?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a2e" alt="PHP 8 and MySQL — Udemy 2024"/></a>
-<a href="https://pietrozinga-dotcom.github.io/pietro-zingarelli-portfolio/"><img src="https://img.shields.io/badge/WordPress-Learnn%202024-6D28D9?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=1a1a2e" alt="WordPress — Learnn 2024"/></a>
+<img src="https://img.shields.io/badge/AI%20%26%20ChatGPT-Learnn%202024-6D28D9?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="AI and ChatGPT — Learnn 2024"/>
+<img src="https://img.shields.io/badge/Python-Learnn%202025-4C1D95?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python — Learnn 2025"/>
+<img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-Udemy%202024-8B5CF6?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e" alt="HTML5 and CSS3 — Udemy 2024"/>
+<img src="https://img.shields.io/badge/PHP%208%20%26%20MySQL-Udemy%202024-7C3AED?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a2e" alt="PHP 8 and MySQL — Udemy 2024"/>
+<img src="https://img.shields.io/badge/WordPress-Learnn%202024-6D28D9?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=1a1a2e" alt="WordPress — Learnn 2024"/>
 
 </div>
 

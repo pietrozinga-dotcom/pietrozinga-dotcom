@@ -2,7 +2,7 @@
 
 ![Pietro | Full-Stack and AI Engineer](https://raw.githubusercontent.com/pietrozinga-dotcom/pietrozinga-dotcom/main/assets/header.png)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=50&size=20&lines=Full-Stack+Engineer+%7C+Next.js+and+TypeScript;Applied+AI+in+production+workflows;Founder+at+Trinity+Digital+Studio;Building+CFA+Broker+-+InsurTech+platform" alt="Typing subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=50&size=20&lines=Full-Stack+Engineer+%7C+Next.js+and+TypeScript;Applied+AI+in+production+workflows;Founder+at+Trinity+Digital+Studio;Building+Lato+insurance+-+InsurTech+platform" alt="Typing subtitle" />
 
 <img src="https://img.shields.io/badge/Self--Directed-Software%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e" alt="Self-directed software engineering" />
 <img src="https://img.shields.io/badge/Location-Turin%2C%20Italy-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white" alt="Turin, Italy" />
@@ -32,7 +32,7 @@ Open To:
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nextjs,react,tailwind,nodejs,supabase,postgres,vercel,git,github,githubactions,vscode,docker" alt="TypeScript, JavaScript, Python, HTML, CSS, Next.js, React, Tailwind, Node.js, Supabase, Postgres, Vercel, Git, GitHub, GitHub Actions, VS Code, Docker" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nextjs,react,tailwind,nodejs,supabase,postgres,vercel,git,github,githubactions,vscode,docker" alt="TypeScript, JavaScript, Python, HTML, CSS, Next.js, React, Tailwind, Node.js, Supabase, Postgres, Vercel, Git, GitHub, GitHub Actions, VS Code, Docker" /> 
 </p>
 
 ---

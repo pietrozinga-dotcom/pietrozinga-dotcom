@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Pietro | Full-Stack and AI Engineer" width="100%" />
+![Pietro | Full-Stack and AI Engineer](https://raw.githubusercontent.com/pietrozinga-dotcom/pietrozinga-dotcom/main/assets/header.png)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=50&size=20&lines=Full-Stack+Engineer+%7C+Next.js+and+TypeScript;Applied+AI+in+production+workflows;Founder+at+Trinity+Digital+Studio;Building+CFA+Broker+-+InsurTech+platform" alt="Typing subtitle" />
 
@@ -129,6 +129,6 @@ Open To:
 
 *"Building systems that turn operational chaos into structured, automated intelligence."*
 
-<img src="assets/footer.svg" alt="" width="100%" />
+![Footer](https://raw.githubusercontent.com/pietrozinga-dotcom/pietrozinga-dotcom/main/assets/footer.png)
 
 </div>

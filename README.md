@@ -1,15 +1,15 @@
 <div align="center">
 
-![Pietro | Full-Stack and AI Engineer](https://raw.githubusercontent.com/pietrozinga-dotcom/pietrozinga-dotcom/main/assets/header.png)
+![Pietro | Full-Stack and AI Engineer](https://raw.githubusercontent.com/pietrozinga-dotcom/pietrozinga-dotcom/main/assets/banner.png)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=50&size=20&lines=Full-Stack+Engineer+%7C+Next.js+and+TypeScript;Applied+AI+in+production+workflows;Founder+at+Trinity+Digital+Studio;Building+CFA+Broker+-+InsurTech+platform" alt="Typing subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=50&size=20&lines=Full-Stack+Engineer+%7C+Next.js+and+TypeScript;Web+apps%2C+mobile+apps%2C+custom+software;Founder+at+Trinity+Digital+Studio;Sites%2C+ecommerce%2C+and+operations+platforms" alt="Typing subtitle" />
 
 <img src="https://img.shields.io/badge/Self--Directed-Software%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e" alt="Self-directed software engineering" />
 <img src="https://img.shields.io/badge/Location-Turin%2C%20Italy-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white" alt="Turin, Italy" />
 
 <br/>
 
-<a href="https://www.trinitydigitalstudio.it"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Trinity Digital Studio"/></a>
+<a href="https://www.trinitydigitalstudio.it"><img src="https://img.shields.io/badge/Trinity%20Digital%20Studio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Trinity Digital Studio"/></a>
 <a href="mailto:info@trinitydigitalstudio.it"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1a2e" alt="Email"/></a>
 
 </div>
@@ -18,13 +18,16 @@
 
 ## About Me
 
-I'm Pietro, a full-stack engineer and founder based in Turin. I build **CFA Broker**, an insurance brokerage platform on Next.js, TypeScript, and Supabase, with AI used where it removes real operational work: incoming email → deal, documents → structured data.
+I'm Pietro, founder of [Trinity Digital Studio](https://www.trinitydigitalstudio.it) in Turin. We design and ship **websites, web apps, mobile apps, e-commerce, and custom gestionali** for companies that run on operations, not slide decks.
+
+Current work includes a brokerage operations platform in collaboration with an insurance agency, and a field-ops system for a company that installs and removes window and door fittings.
 
 ```yaml
-Open To:
-  - Full-stack product roles (Next.js / TypeScript / Supabase)
-  - Applied AI in B2B workflows
-  - InsurTech partnerships and technical consulting
+What we build:
+  - Websites and e-commerce
+  - Web apps and mobile apps
+  - Custom back-office / gestionali
+  - Applied AI inside real workflows (email, documents, routing)
 ```
 
 ---
@@ -39,46 +42,52 @@ Open To:
 
 ## Applied AI
 
-What I actually ship today, not a skill matrix:
+Used where it removes operational work, mainly in the insurance collaboration:
 
-- **Email → deal** — classify inbound broker email and route it into the pipeline
-- **Document OCR** — extract and structure insurance documents instead of manual data entry
-- **Prompted workflows** — structured prompts for classification and extraction, evaluated against real broker cases
-
-RAG and model fine-tuning are in progress; they live under Current Focus until they are in production.
+- Inbound email classified and routed into the deal pipeline
+- Documents extracted and structured instead of retyped by hand
+- Prompts evaluated against real back-office cases, not demos
 
 ---
 
 ## Featured Projects
 
-**CFA Broker** — insurance brokerage platform (private)
+**Insurance brokerage operations** — private, in collaboration with an agency
 
-Next.js, TypeScript, Supabase. Multi-tenant product for brokers: deals, documents, and client workflows in one place.
+Next.js, TypeScript, Supabase. Back-office for deals, documents, and client workflows.
 
-- Incoming emails and documents are classified and turned into deal records
-- Role-based access, GDPR-aware handling of client data
-- Built and operated end-to-end at [Trinity Digital Studio](https://www.trinitydigitalstudio.it)
+- Email and documents in → structured records out
+- Role-based access and GDPR-aware handling of client data
+- Product still in late build; details stay off this page on purpose
 
-**Rental property operations** — booking sync (private)
+**Window & door installation ops** — private, with a dedicated mobile app
+
+Web gestionale + app for a company that mounts and unmounts fittings.
+
+- Jobs, appointments, and on-site work — not warehouse stock
+- Crews in the field, office on the dashboard
+- One flow from booking the pose to closing the cantiere
+
+**Rental property operations** — private
 
 Next.js, TypeScript, Supabase, Google Apps Script.
 
-- One dashboard for availability, bookings, and guest communication across listing platforms
-- Calendar sync so properties are not double-booked by hand
+- Bookings, availability, and guest communication in one place
+- Calendar sync across listing platforms
 
 ---
 
 ## Experience
 
-**Founder & Full-Stack Engineer** — [Trinity Digital Studio](https://www.trinitydigitalstudio.it)
+**Founder & Full-Stack Engineer** — [Trinity Digital Studio S.r.l.](https://www.trinitydigitalstudio.it)
 `2026 — Present`
 
-- Designed and shipped CFA Broker (architecture, product, AI workflows, deploy)
-- Email classification and document OCR for brokerage operations
-- Google Apps Script automations for internal ops
+- Run delivery for client products: sites, web apps, mobile apps, e-commerce, custom software
+- Insurance brokerage gestionale with an agency partner (architecture, AI workflows, production)
+- Field operations platform for installation crews (web + mobile)
 - Production on Vercel and Supabase
 
-`Next.js` `TypeScript` `Supabase` `Applied AI` `OCR`
+`Next.js` `TypeScript` `Supabase` `React Native` `Applied AI`
 
 ---
 
@@ -99,17 +108,14 @@ Not linked yet — certificate files come later.
 
 ```yaml
 Building:
-  - CFA Broker
-  - Document classification and OCR pipelines
+  - Client products at Trinity Digital Studio
+  - Brokerage operations platform (late stage)
+  - Field ops for installation crews
 
 Learning:
   - RAG for document search
-  - Domain-specific extraction accuracy
+  - Extraction accuracy on real documents
   - EU AI Act and GDPR for AI features
-
-Open To:
-  - Applied AI collaborations
-  - InsurTech partnerships and consulting
 ```
 
 ---
@@ -127,7 +133,7 @@ Open To:
 
 <div align="center">
 
-*"Building systems that turn operational chaos into structured, automated intelligence."*
+*"Your vision, our code."*
 
 ![Footer](https://raw.githubusercontent.com/pietrozinga-dotcom/pietrozinga-dotcom/main/assets/footer.png)
 
